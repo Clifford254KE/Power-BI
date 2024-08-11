@@ -1,4 +1,4 @@
-# Power BI Sales and Financial Analysis Project
+# Power BI Sales and Financial Analysis Project (This project is not fully recorded)
 
 ## Project Overview
 
