@@ -44,7 +44,7 @@ The dataset used for this project contains the following columns:
      - **Sales Proportion by Segment (Pie/Donut Chart)**: Illustrates the share of sales contributed by each business segment.
  ![PI1](https://github.com/user-attachments/assets/1889d964-e337-4892-843b-16823636fb86)
 
-Thisvizualizationis availabe [here](https://app.powerbi.com/groups/me/reports/459f2131-9840-4173-a998-9a072620ab48/f476f00b7bb8cffbf375?experience=power-bi)
+This vizualization is availabe [here](https://app.powerbi.com/groups/me/reports/459f2131-9840-4173-a998-9a072620ab48/f476f00b7bb8cffbf375?experience=power-bi)
 
 ### 2. Profit Analysis Dashboard
    - **Objective**: Analyze profitability across products, countries, and segments.
